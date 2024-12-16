@@ -1,4 +1,4 @@
-# DecoratorPattern
+# Decorator Pattern
 
 UML Class Diagram:
 
